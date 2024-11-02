@@ -34,6 +34,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 6. Generate Application Key
     ```bash
     php artisan key:generate
-7.Run the Development Server
- ```bash
- php artisan serve
+7. **Run the Development Server**  
+   ```bash
+    php artisan serve
+
+Login form.
+8. **Email and Password**
+  ```bash
+    admin@gmail.com
+   
+
+
+
+
